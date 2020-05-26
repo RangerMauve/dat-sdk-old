@@ -1,0 +1,26 @@
+{
+  "name": "dat-sdk-old",
+  "version": "1.0.0",
+  "description": "This is a convenience module to get dat-sdk before the migration to the `hyper://` protocol.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RangerMauve/dat-sdk-old.git"
+  },
+  "keywords": [
+    "dat",
+    "sdk"
+  ],
+  "author": "rangermauve <ranger@mauve.moe> (https://mauve.moe/)",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/dat-sdk-old/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/dat-sdk-old#readme",
+  "dependencies": {
+    "dat-sdk": "^1.0.3"
+  }
+}
